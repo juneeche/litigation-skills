@@ -1,0 +1,4 @@
+interface:
+  display_name: "诉讼技能集合"
+  short_description: "统一处理中国法律研究、诉讼分析、文书、证据、庭前和归档。"
+  default_prompt: "请使用 $litigation-skills 按中国内地法律语境处理这个任务，核验事实与依据并输出可执行成果。"
