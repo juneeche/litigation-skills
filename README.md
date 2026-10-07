@@ -27,7 +27,7 @@
 
 ## 安装（以 Kimi 为例，其他支持 Skill 的 AI 同理）
 
-1. 克隆本仓库：`git clone https://github.com/<你的用户名>/litigation-skills.git`
+1. 克隆本仓库：`git clone https://github.com/juneeche/litigation-skills.git`
 2. 打开 AI 助手，把这个文件夹指给它，发一句话：
 
    > **扫描文件夹里的 skill，固定成该任务的技能**
